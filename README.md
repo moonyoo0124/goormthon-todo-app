@@ -12,6 +12,5 @@
 - **Frontend**: React, Axios, Framer Motion, Lucide-React
 - **Backend**: Node.js, Express, Cors
 
-## 🔍 Troubleshooting (Technical Depth)
-- **Port Conflict**: macOS 환경의 AirPlay 서비스와 5000번 포트 충돌 문제를 포트 리바인딩(5001번)을 통해 해결.
+## 🔍 Troubleshooting
 - **Endpoint 404**: 신규 API 경로 등록 후 서버 재구동 프로세스를 통해 라우팅 테이블 갱신 완료.
